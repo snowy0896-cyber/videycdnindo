@@ -1,10 +1,10 @@
-# jpnmovie
-<jav>
+# beningblunder
+<cantikblunder>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<vidjav>Vidjav</vidjav>
+<newindo>Vidjav</indoviral>
 
 <style>
 body{
@@ -52,7 +52,7 @@ body{
 <body>
 
 <div class="video-thumb" onclick="showAds()">
-    <img src="WhatsApp Image 2026-07-17 at 22.41.50.jpeg" alt="Thumbnail Video">
+    <img src="WhatsApp Image 2026-07-18 at 00.16.01.jpeg" alt="Thumbnail Video">
     <div class="play"></div>
 </div>
 
