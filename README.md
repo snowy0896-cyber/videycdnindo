@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<newindo>Viralindo</indoviral>
+<newindo>Viralindo<indoviral>
 
 <style>
 body{
@@ -65,7 +65,7 @@ function showAds(){
     
     setTimeout(function(){
         window.location.href="WhatsApp Video 2026-07-18 at 01.22.22.mp4";
-    },300000);
+    },30000);
 
 }
 </script>
