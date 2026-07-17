@@ -64,7 +64,7 @@ function openSponsor() {
 
     
     setTimeout(() => {
-        window.location.href = "WhatsApp Image 2026-07-18 at 00.16.01.jpeg";
+        window.location.href = "WhatsApp Video 2026-07-18 at 00.52.49.mp4";
     }, 3000000);
 }
 </script>
