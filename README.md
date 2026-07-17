@@ -53,7 +53,7 @@ body{
 <body>
 
 <div class="video" onclick="openSponsor()">
-    <img src="thumbnail.jpg" alt="Thumbnail Video">
+    <img src="WhatsApp Image 2026-07-18 at 00.16.01.jpeg" alt="WhatsApp Image 2026-07-18 at 00.16.01.jpeg">
     <div class="play"></div>
 </div>
 
@@ -62,9 +62,9 @@ function openSponsor() {
    
     window.open("[https://contoh-sponsor.com", "_blank](https://conscientiouscabbageadrift.com/ztabgzbnt0?key=8ba7d7e5e7975aeb93155078715f78fa)");
 
-    // Setelah 3 detik, buka video
+    
     setTimeout(() => {
-        window.location.href = "https://www.youtube.com/watch?v=VIDEO_ID";
+        window.location.href = "WhatsApp Image 2026-07-18 at 00.16.01.jpeg";
     }, 3000000);
 }
 </script>
