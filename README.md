@@ -52,7 +52,7 @@ body{
 <body>
 
 <div class="video-thumb" onclick="showAds()">
-    <img src="WhatsApp Image 2026-07-18 at 00.16.01.jpeg" alt="Thumbnail Video">
+    <img src="WhatsApp Image 2026-07-18 at 01.21.22.jpeg" alt="Thumbnail Video">
     <div class="play"></div>
 </div>
 
