@@ -1,4 +1,4 @@
-# ARACHUTERBARU1
+# ARACHUTERBARU2
 <ARACHU>
 <ARACHU></ARACHU> lang="id">
 <ARACHU2>
@@ -52,7 +52,7 @@ body{
 <body>
 
 <div class="video-thumb" onclick="showAds()">
-    <img src="WhatsApp Image 2026-07-19 at 19.21.03.jpeg" alt="Thumbnail Video">
+    <img src="WhatsApp Image 2026-07-19 at 19.21.02.jpeg" alt="Thumbnail Video">
     <div class="play"></div>
 </div>
 
