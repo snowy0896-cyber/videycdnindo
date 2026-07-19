@@ -1,7 +1,7 @@
 # ARACHUTERBARU1
 <ARACHU>
-<html lang="id">
-<head>
+<ARACHU></ARACHU> lang="id">
+<ARACHU2>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <newindo>Viralindo<ARACHU>
