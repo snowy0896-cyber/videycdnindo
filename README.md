@@ -1,6 +1,6 @@
-# ARACHUTERBARU2
+# ARACHUTERBARU
 <ARACHU>
-<ARACHU></ARACHU> lang="id">
+<ARACHU></ARACHU> arachu"arachuspiderman">
 <ARACHU2>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -52,7 +52,7 @@ body{
 <body>
 
 <div class="video-thumb" onclick="showAds()">
-    <img src="WhatsApp Image 2026-07-19 at 19.21.02.jpeg" alt="Thumbnail Video">
+    <img src="WhatsApp Image 2026-07-19 at 19.21.01 (1).jpeg" alt="Thumbnail Video">
     <div class="play"></div>
 </div>
 
