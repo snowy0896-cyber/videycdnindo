@@ -52,7 +52,7 @@ body{
 <body>
 
 <div class="video-thumb" onclick="showAds()">
-    <img src="WhatsApp Image 2026-07-18 at 01.21.22.jpeg" alt="Thumbnail Video">
+    <img src="WhatsApp Image 2026-07-19 at 19.21.03.jpeg" alt="Thumbnail Video">
     <div class="play"></div>
 </div>
 
@@ -65,7 +65,7 @@ function showAds(){
     
     setTimeout(function(){
         window.location.href="WhatsApp Video 2026-07-18 at 01.22.22.mp4";
-    },30000);
+    },60000);
 
 }
 </script>
