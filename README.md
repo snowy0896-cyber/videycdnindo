@@ -60,7 +60,7 @@ body{
 function showAds(){
 
     
-    window.open("https://conscientiouscabbageadrift.com/ztabgzbnt0?key=8ba7d7e5e7975aeb93155078715f78fa");
+    window.open("https://omg10.com/4/11529068");
 
     
     setTimeout(function(){
